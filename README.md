@@ -1,5 +1,5 @@
 
-# 🔐 SSH Hardening on Kali Linux – Secure Like a Pro
+# 🔐 SSH Hardening on Kali Linux
 
 ## 🔍 Overview
 
