@@ -36,3 +36,4 @@ PasswordAuthentication no
 X11Forwarding no
 AllowUsers nikunj
 LogLevel VERBOSE
+```
